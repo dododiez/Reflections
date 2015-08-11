@@ -3,3 +3,5 @@ THis is a file containing the reflections gathered during the Udacity Course for
 Lesson 1 has been completed
 Lesson 2 has been completed
 Lesson 3 has been completed
+
+When would you want to use a remote repository rather than keeping all your work local?
