@@ -1,0 +1,3 @@
+THis is a file containing the reflections gathered during the Udacity Course for GIT.
+
+Lesson 1 has been completed
